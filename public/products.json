@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Gorra Lacost",
+    "price": 40000,
+    "category": "gorras",
+    "image": "https://motomellos.com/wp-content/uploads/2025/03/8787184649210_567408062023092529.png"
+  },
+  {
+    "id": 2,
+    "name": "Gorra Clemont Amicizia Rojo",
+    "price": 40000,
+    "category": "gorras",
+    "image": "https://cdn.baguer.co/uploads/2025/06/gorra-clemont-amicizia-rojo-131035RJ_A.webp_udRaVGsQx3iZM0LczPzJEEvskdSXqS.webp"
+  },
+  {
+    "id": 3,
+    "name": "Gorra Clemont Clásica",
+    "price": 50000,
+    "category": "gorras",
+    "image": "https://imperialclothes.co/cdn/shop/files/1_23.jpg?v=1739557631"
+  },
+  {
+    "id": 4,
+    "name": "Gorra New York Yankee",
+    "price": 50000,
+    "category": "gorras",
+    "image": "https://neweraco.vtexassets.com/arquivos/ids/211012/60585389_2.png?v=638851887756400000"
+  },
+  {
+    "id": 5,
+    "name": "Gorra New",
+    "price": 50000,
+    "category": "gorras",
+    "image": "https://neweraco.vtexassets.com/arquivos/ids/173562/70361054_1.png?v=638207111299600000"
+  },
+  {
+    "id": 6,
+    "name": "Gorra Street Noir",
+    "price": 42000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra6/400/300"
+  },
+  {
+    "id": 7,
+    "name": "Gorra Retro Snap",
+    "price": 38000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra7/400/300"
+  },
+  {
+    "id": 8,
+    "name": "Gorra Canvas",
+    "price": 45000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra8/400/300"
+  },
+  {
+    "id": 9,
+    "name": "Gorra Minimal",
+    "price": 35000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra9/400/300"
+  },
+  {
+    "id": 10,
+    "name": "Gorra Luxe",
+    "price": 62000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra10/400/300"
+  },
+  {
+    "id": 11,
+    "name": "Gorra Trucker Black",
+    "price": 33000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra11/400/300"
+  },
+  {
+    "id": 12,
+    "name": "Gorra Vintage Logo",
+    "price": 47000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra12/400/300"
+  },
+  {
+    "id": 13,
+    "name": "Gorra Mesh",
+    "price": 29000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra13/400/300"
+  },
+  {
+    "id": 14,
+    "name": "Gorra Urban Camo",
+    "price": 51000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra14/400/300"
+  },
+  {
+    "id": 15,
+    "name": "Gorra Classic 5-Panel",
+    "price": 36000,
+    "category": "gorras",
+    "image": "https://picsum.photos/seed/gorra15/400/300"
+  }
+]

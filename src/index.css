@@ -1,0 +1,36 @@
+/* Estilos urbanos con fondo blanco */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: #000000;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+
+/* Estilos generales para títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+/* Estilos para botones */
+button {
+  font-family: inherit;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+/* Estilos para párrafos */
+p {
+  line-height: 1.6;
+}
